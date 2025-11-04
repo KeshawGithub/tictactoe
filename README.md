@@ -29,7 +29,7 @@ JavaScript (ES6) – for game logic and interactivity
 
 Clone or Download this repository
 
-git clone https://github.com/KeshawGithub/tictactoe
+git clone https://github.com/KeshawGithub/tictactoe 
 Open the Project Folder
 
 cd tictactoe-game
