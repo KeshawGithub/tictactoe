@@ -25,6 +25,8 @@ CSS3 – for styling and layout design
 
 JavaScript (ES6) – for game logic and interactivity
 
+Live Demo - k-tictactoe-game.netlify.app
+
 🚀 How to Run the Game
 
 Clone or Download this repository
