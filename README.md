@@ -37,6 +37,10 @@ cd tictactoe-game
 Run the Game
 Simply open the index.html file in any modern web browser.
 
+Screenshort 
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/71417846-69b3-4c2d-95e2-7323bf1939cf" />
+
+
 🕹️ How to Play
 
 The game board has 3×3 squares.
